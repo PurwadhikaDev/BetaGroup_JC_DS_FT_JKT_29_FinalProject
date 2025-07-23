@@ -66,8 +66,8 @@ The **Customer Marketing Team** can leverage the model to:
 ---
 
 ## Link Tableau
->•[https://public.tableau.com/views/E-commerceCustomerChurnBetaGroupJCDS2904/E-commerceCustomerChurnReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+>•[Tableau Kelompok Beta](https://public.tableau.com/views/E-commerceCustomerChurnBetaGroupJCDS2904/E-commerceCustomerChurnReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## Link Streamlit
->•[https://ecommercechurn.streamlit.app/)
+>•[Ecommerce Churn](https://ecommercechurn.streamlit.app/)
