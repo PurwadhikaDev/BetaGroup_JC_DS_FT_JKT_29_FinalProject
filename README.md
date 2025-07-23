@@ -65,5 +65,9 @@ The **Customer Marketing Team** can leverage the model to:
 - **Nadame Kristina**
 ---
 
+## Link Tableau
+>•[https://public.tableau.com/views/E-commerceCustomerChurnBetaGroupJCDS2904/E-commerceCustomerChurnReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
 ## Link Streamlit
->[https://ecommercechurn.streamlit.app/]
+>•[https://ecommercechurn.streamlit.app/)
