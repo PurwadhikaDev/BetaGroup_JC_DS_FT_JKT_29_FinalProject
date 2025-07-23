@@ -25,7 +25,7 @@ Generic loyalty programs or discounts are not cost-effective — they risk **mis
 - **Model**: Tuned LightGBM Classifier  
 - **Resampling**: Random Over Sampling (ROS)  
 - **Feature Selection**: SelectKBest (f_classif)  
-- **Primary Metric**: **F2-Score = 0.901379**
+- **Primary Metric**: **F2-Score = 0.91**
 
 ### Prediction Breakdown
 | Category                       | Count |
